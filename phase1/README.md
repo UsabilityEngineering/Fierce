@@ -27,14 +27,14 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 - Users that did not attend any events did not specify search time 5/11 times. Two responded with less than one minute and four responded about five minutes.
 
-### Event and User Distribution
+### Event and User Distribution by Persona
 --------------------------------------------------------------------------------------------
  - The Curious: 6 users, 0 events, average: 0 events
  - The Refined: 1 user, 1 event, average: 1 events
  - The Free Spirit: 2 users, 6 events, average: 3 events
  - The Veteran: 7 users, 17 events, average: 2.43 events
  
- ### Sub-Persona Distribution
+ ###  Event and User Distribution by Sub-Persona
  --------------------------------------------------------------------------------------------
   - The Ghosted: 5 users, 10 events, average: 2 events
   - The Landline: 1 user, 2 events, average: 2 events
