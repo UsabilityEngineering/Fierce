@@ -1,4 +1,4 @@
-# Team Name, Phase 1: User Inquiry and Inspection
+# Team Fierce, Phase 1: User Inquiry and Inspection
 
 ## Methods
 
