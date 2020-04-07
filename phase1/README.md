@@ -108,7 +108,8 @@ These tags may be applied to any persona, and define how users respond to variab
 ---------------------------------------------------------------------------------------------
 ### The Detective
 --------------------
-- Those who specifically search for events online, using experience to guide their search. These users are inferred to respond most to informative online advertising.
+- Those who specifically search for events online, with or without other sources, using experience to guide their search. These users are inferred to respond most to informative online advertising when making a decision. 
+- However, other sources of information will influence where these users begin their online search.
 
 ---------------------------------------------------------------------------------------------
 
