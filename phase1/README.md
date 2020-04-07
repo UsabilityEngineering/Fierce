@@ -29,9 +29,6 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ### Event and User Distribution
 --------------------------------------------------------------------------------------------
- - Of 24 events attended, 9 were by users with the Sherrif sub-persona and 15 by users with the Detective sub-persona.
- - Sherrifs averaged 3 events, while Detectives averaged 2.14 events.
- - Persona Distribution is as follows:
  - The Curious: 6 users, 0 events, average: 0 events
  - The Refined: 1 user, 1 event, average: 1 events
  - The Free Spirit: 2 users, 6 events, average: 3 events
