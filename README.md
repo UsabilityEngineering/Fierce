@@ -5,7 +5,7 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 ## Team Members
 
 * Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
-* **Full Name 2** - Summary of contributions
+* Michael Harris - Wrote scenarios, worked on caveats and conclusion
 
 ## Phase 1: User Inquiry and Inspection
 
