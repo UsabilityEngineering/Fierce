@@ -9,9 +9,23 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ## Phase 1: User Inquiry and Inspection
 
+### Method Summary
 * Executive Summary of methods,
-* data gathered,
-* and most important outcomes
+
+### Data Gathered
+* The majority of users use Family/Friends to locate events, with Internet Searches being the second most preferred.
+* Users who are notified of event cancellation without resorting to phone calls average 50% higher event attendance.
+* Notifying users via phone did not have a noticable impact on event attendance.
+* Most users acquired tickets/passes in around five minutes.
+* Nearly one-third of respondants had not attended events in the last thirty days, but responded anyway.
+* The Veterans were the majority Persona of event attendances, followed by The Curious, and then The Free Spirits.
+* The Detectives were the majority Sub-Persona of event attendances, followed by The Forgiving, and then The Sheriffs.
+* The Detectives and The Curious made up over half of user Personas.
+* The Detectives, The Forgiving, and The Ghosted make up over half of user Sub-Personas.
+* All Personas and Sub-Personas averaged between one and three events, except The Curious that attended zero.
+
+### Important Outcomes
+* and most important outcomes (Conclusions)
 
 [Full phase 1 report](phase1/)
 
