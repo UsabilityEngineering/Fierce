@@ -2,7 +2,14 @@
 
 ## Methods
 
-Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
+### Questionairre
+--------------------
+Why: Accessibility for remote data collection during COVID-19 stay at home orders. A questionairre also allowed for simple mock data collection.
+Sample Size: 20
+
+A pivot table was created to analyze the response data with Timestamp for rows and the duration of ticket acquisition as columns. Values are the number of events attended and can be summed, averaged, etc. Filterable options are event attendance, how the event was found, and cancellation notification.
+
+-------------------------------------------------------------------------------------------
 
 ## Findings
 
