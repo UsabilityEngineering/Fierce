@@ -5,8 +5,40 @@
 Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
 
 ## Findings
+--------------------------------------------------------------------------------------------
+### Questionairre
+-------------------
+- Users that received cancellation of their event, via methods other than phone, attended 50% more events than those who received no notification or were notified via phone.
 
-For each method, describe the users you collected data from (demographics and how they represent your user base) and summarize the findings point-by-point (for example, the distribution of answers for a multiple-choice question). If you are researching existing software and/or competitor software, you may want to include pictures with call-outs that point out both important features and flaws within the interface.
+### Ticket Acquisition Distribution 
+--------------------------------------------------------------------------------------------
+ - 0-1min: 4 tickets
+ - 1-2min: 2 tickets
+ - 2-3min: 2 tickets
+ - 3-5min: 15 tickets
+ - 5+min: 1 tickets
+
+- Users that did not attend any events did not specify search time 5/11 times. Two responded with less than one minute and four responded about five minutes.
+
+### Event and User Distribution
+--------------------------------------------------------------------------------------------
+ - Of 24 events attended, 9 were by users with the Sherrif sub-persona and 15 by users with the Detective sub-persona.
+ - Sherrifs averaged 3 events, while Detectives averaged 2.14 events.
+ - Persona Distribution is as follows:
+ - The Curious: 6 users, 0 events, average: 0 events
+ - The Refined: 1 user, 1 event, average: 1 events
+ - The Free Spirit: 2 users, 6 events, average: 3 events
+ - The Veteran: 7 users, 17 events, average: 2.43 events
+ 
+ ### Sub-Persona Distribution
+ --------------------------------------------------------------------------------------------
+  - The Ghosted: 5 users, 10 events, average: 2 events
+  - The Landline: 1 user, 2 events, average: 2 events
+  - The Forgiving: 4 users, 12 events, average: 3 events
+  - The Sheriff: 3 users, 9 events, average: 3 events
+  - The Detective: 7 users, 15 events, average: 2.14 events
+
+--------------------------------------------------------------------------------------------
 
 ## Conclusions
 
@@ -18,28 +50,28 @@ Considerations and/or limitations to the method(s) you chose and the findings/co
 
 ## Personas
 ------------------------------------------------------------------------------------------------
-The Curious
+### The Curious
 --------------------
 - Those who have not attended any events, but still responded. These users are considered to be potential leads and their return rate will be heavily influenced by their first experience.
 
 - For the purposes of defining this persona, null answers for event attendace are interpreted as no. It is inferred that these users have an interest in events from the fact that they responded even with no event history.
 
 ------------------------------------------------------------------------------------------------
-The Refined
+### The Refined
 --------------------
 - Those who have attended few events and spend over five minutes acquiring their ticket. These users are considered to be attracted to prestigious or niche events and their return rate will be heavily influenced by the perceived value for the cost.
 
 - For the purposes of defining this persona it is inferred that these users spent more time acquiring tickets through a similar process, where others were able to spend less time. 
 
 -----------------------------------------------------------------------------------------------
-The Free Spirit
+### The Free Spirit
 --------------------
 - Those who attend more than one event and spend less than two minutes acquiring their ticket. These users are considered to be attracted to a wide range of events and their return rate will be heavily influenced by the ease of attending multiple events. This includes everything from the ticket acquisition process to the rules of the event.
 
 - For the purposes of defining this persona it is inferred that these users are experience-focused and are generally optimistic. Given their rapid acquisition of tickets and multiple events attended, it is also inferred that these users would more readily refund their purchase if there are significant difficulties involved in event attendance.
 
 ---------------------------------------------------------------------------------------------
-The Veteran
+### The Veteran
 --------------------
 - Those who have attended two or more events and spend 3-5 minutes acquiring their ticket. These users are considered to be attracted to the event and their return rate will be heavily influenced by the selection offered.
 
@@ -50,27 +82,27 @@ The Veteran
 These tags may be applied to any persona, and define how users respond to variables.
 
 --------------------------------------------------------------------------------------------
-The Ghosted
+### The Ghosted
 --------------------
 - Those who attended events, but were not notified of some cancellations. These users attend an average of 2 events, and are considered to have a negative position on the service.
 
 ---------------------------------------------------------------------------------------------
-The Landline
+### The Landline
 --------------------
 - Those who attended events and were notified of its cancellation via phone. These users are considered less app-focused and more willing to attend events that do not require them. Ultimately, a cancellation call will provide minimal benefit since these users attend an average of 2 events anyway.
 
 ---------------------------------------------------------------------------------------------
-The Forgiving
+### The Forgiving
 --------------------
 - Those who have attended events and were notified of its cancellation via a method other than phone. These users are considered to be less interested in customer service except regarding cancellations or other negative circumstances. A cancellation notification could mean a significant increase on return, as these users attended an average of 3 events.
 
 ---------------------------------------------------------------------------------------------
-The Sheriff
+### The Sheriff
 --------------------
 - Those who find events through a trusted network of contacts like Friends/Family, Facebook Pages, Community Organizations (mesa) , or Radio. These users are inferred to respond most to word-of-mouth, actions, and local presence.
 
 ---------------------------------------------------------------------------------------------
-The Detective
+### The Detective
 --------------------
 - Those who specifically search for events online, using experience to guide their search. These users are inferred to respond most to informative online advertising.
 
