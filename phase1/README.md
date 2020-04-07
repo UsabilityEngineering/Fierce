@@ -5,7 +5,7 @@
 Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
 
 ## Findings
---------------------------------------------------------------------------------------------
+
 ### Questionairre
 -------------------
 - Users that received cancellation of their event, via methods other than phone, attended 50% more events than those who received no notification or were notified via phone.
@@ -49,7 +49,7 @@ Discoveries derived from the method(s). For example, explain a requirement (e.g.
 Considerations and/or limitations to the method(s) you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
 
 ## Personas
-------------------------------------------------------------------------------------------------
+
 ### The Curious
 --------------------
 - Those who have not attended any events, but still responded. These users are considered to be potential leads and their return rate will be heavily influenced by their first experience.
