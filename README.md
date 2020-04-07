@@ -4,7 +4,7 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ## Team Members
 
-* Kira Casto - Developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
+* Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
 * **Full Name 2** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
