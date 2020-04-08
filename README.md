@@ -29,7 +29,7 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 * All Personas and Sub-Personas averaged between one and three events, except The Curious that attended zero.
 
 ### Important Outcomes
-The average user spends 5 or more minutes to purchase a single event registration ticket. <
+The average user spends 5 or more minutes to purchase a single event registration ticket.
 > * Registration should be taken into further account by developing a quick and simple registration process, making the overall user experience much more enjoyable.
 
 The majority of users found events of interest by searching for them through the use of the internet or through family/friends.
