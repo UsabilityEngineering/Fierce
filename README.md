@@ -5,7 +5,7 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 ## Team Members
 
 * Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
-* Michael Harris - Wrote scenarios, worked on caveats and conclusion.
+* Michael Harris - Wrote scenarios, worked on caveats and conclusion, and serious formatting overhauls
 * Cody DeLozier - Wrote caveats and conclusion.
 
 ## Phase 1: User Inquiry and Inspection
