@@ -30,10 +30,8 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ### Important Outcomes
 * and most important outcomes (Conclusions):
-#### The average user spends 5 or more minutes to purchase a single event registration
-* a focus in developing a quick and simple is essential to creating a enjoyable user experience.
-#### The average user spends 5 or more minutes to purchase a single event registration
-* test
+> The average user spends 5 or more minutes to purchase a single event registration
+> * a focus in developing a quick and simple is essential to creating a enjoyable user experience.
 
 [Full phase 1 report](phase1/)
 
