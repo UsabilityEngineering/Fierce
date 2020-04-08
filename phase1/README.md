@@ -1,6 +1,6 @@
 # Team Fierce, Phase 1: User Inquiry and Inspection
 
-#Methods
+# Methods
 
 ### Questionairre
 --------------------
@@ -67,7 +67,7 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 --------------------------------------------------------------------------------------------
 
-## Conclusions
+# Conclusions
 
 #### Registration Times
 > Through our questionnaire we discovered the average user is spending approximately 5 minutes to purchase an event registration. Assuming this is how most people are registering for individual events, registering for multiple events in a row or as part of a series would take in excess of 15 minutes or more. Therefore it is important that registration should be taken into account, making the registration process across multiple event registrations as short and simple to the point as possible. We found that the registration process across users is taking far too long.
@@ -86,8 +86,8 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 #### Impacted Findings
 > In our findings, we discovered many users who had not attended an event within the last 30 days yet still filled out the survey leading to possibly less accurate data. This means that many users based their answers on something they did over a month ago. Using one research instrument (online questionnaire/survey) lead to limitations in not finding enough users from the demographic of people who recently attended an event, regardless of the method in which they found the event (newspaper, word of mouth, internet etc.). Our original assumption was that by performing both an online survey and an in-person interview, collectively we could get the most accurate information.
 
-#Personas
-[Return to Top](#methods)
+# Personas
+[Return to Top](#-methods)
 
 ### The Curious
 --------------------
@@ -117,8 +117,8 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 > * For the purposes of defining this persona it is inferred that these users have experience in attending events and generally know what they want from an event. Given their routine ticket acquisition time and events attended, these users are considered to be more willing to engage with a more structured event environment.
 --------------------
 
-#Sub-Personas
-[Back to Personas](#personas)
+# Sub-Personas
+[Back to Personas](#-personas)
 --------------------------------------------------------------------------------------------
 These tags may be applied to any persona, and define how users respond to variables.
 
@@ -150,8 +150,8 @@ These tags may be applied to any persona, and define how users respond to variab
 
 ---------------------------------------------------------------------------------------------
 
-## Scenarios
-[Back to Sub-Personas](#sub-personas)
+# Scenarios
+[Back to Sub-Personas](#-sub-personas)
 
 #### Scenario 1
 #### User navigates events listings
