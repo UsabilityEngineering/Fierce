@@ -29,13 +29,13 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 * All Personas and Sub-Personas averaged between one and three events, except The Curious that attended zero.
 
 ### Important Outcomes
-> The average user spends 5 or more minutes to purchase a single event registration ticket. <
+The average user spends 5 or more minutes to purchase a single event registration ticket. <
 > * Registration should be taken into further account by developing a quick and simple registration process, making the overall user experience much more enjoyable.
 
-> The majority of users found events of interest by searching for them through the use of the internet or through family/friends.
+The majority of users found events of interest by searching for them through the use of the internet or through family/friends.
 > * It would be useful to obtain further data by analyzing these existing software/registration processes by attending these events or contracting with the event hosts directly.
 
-> Nearly 1/3 of all users that completed the survey had not attended a fitness event within the last 30 days.
+Nearly 1/3 of all users that completed the survey had not attended a fitness event within the last 30 days.
 > * To improve accuracy in our data through the use of an online survey/questionairre, it would be useful to send emails to eligible participants directly after a popular local event has ended, requesting that they fill out our survey in a timely manner.
 
 [Full phase 1 report](phase1/)
