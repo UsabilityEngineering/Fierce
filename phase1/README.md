@@ -31,10 +31,11 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 --------------------------------------------------------------------------------------------
 
 ||*Total Users*|*Recent Events*|*Average Events*|
-|:**Curious**:|:6:|:0:|:0:|
-|:**Refined**:|:1:|:1:|:1:|
-|:**Free Spirit**:|:2:|:6:|:3:|
-|:**Veteran**:|:7:|:17:|:2.43:|
+|:---:|:---:|:---:|:---:|
+|**Curious**|6|0|0|
+|**Refined**|1|1|1|
+|**Free Spirit**|2|6|3|
+|**Veteran**|7|17|2.43|
 > * The Curious:
 >    * 6 users, 0 events
 >    * average: 0 events
