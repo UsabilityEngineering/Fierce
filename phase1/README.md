@@ -19,6 +19,7 @@ Users that received cancellation of their event, via methods other than phone, a
 
 ### Ticket Acquisition Distribution 
 --------------------------------------------------------------------------------------------
+
 |-|<1 Minutes|2 Minutes|3 Minutes|3-5 Minutes|>5 Minutes|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Tickets Bought|4|2|2|15|1|
@@ -37,6 +38,7 @@ Users that received cancellation of their event, via methods other than phone, a
  
 ###  Event and User Distribution by Sub-Persona
  --------------------------------------------------------------------------------------------
+ 
 ||*Total Users*|*Recent Events*|*Average Events*|
 |:---:|:---:|:---:|:---:|
 |**Ghosted**|5|10|2|
@@ -44,6 +46,7 @@ Users that received cancellation of their event, via methods other than phone, a
 |**Forgiving**|4|12|3|
 |**Sheriff**|3|9|3|
 |**Detective**|7|15|2.14|
+
 --------------------------------------------------------------------------------------------
 
 # Conclusions
