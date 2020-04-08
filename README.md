@@ -6,7 +6,7 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 * Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
 * Michael Harris - Wrote scenarios, worked on caveats and conclusion, and serious formatting overhauls
-* Cody DeLozier - Wrote caveats, conclusion, executive summary of methods and import outcomes.
+* Cody DeLozier - Wrote caveats, conclusion, executive summary of methods and important outcomes.
 
 ## Phase 1: User Inquiry and Inspection
 
@@ -30,9 +30,9 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ### Important Outcomes
 * and most important outcomes (Conclusions):
-# The average user spends 5 or more minutes to purchase a single event registration
+#### The average user spends 5 or more minutes to purchase a single event registration
 * a focus in developing a quick and simple is essential to creating a enjoyable user experience.
-# The average user spends 5 or more minutes to purchase a single event registration
+#### The average user spends 5 or more minutes to purchase a single event registration
 * test
 
 [Full phase 1 report](phase1/)
