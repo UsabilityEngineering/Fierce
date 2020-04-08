@@ -46,24 +46,24 @@ A pivot table was created to analyze the response data with Timestamp for rows a
  
 ###  Event and User Distribution by Sub-Persona
  --------------------------------------------------------------------------------------------
-* The Ghosted:
-* * 5 users, 10 events
-* * *average: 2 events*
+> * The Ghosted:
+>    * 5 users, 10 events
+>    * *average: 2 events*
 
-* The Landline:
-* * 1 user, 2 events
-* * *average: 2 events*
-
-* The Forgiving:
-* * 4 users, 12 events
-* * *average: 3 events*
-
-* The Sheriff:
-* * 3 users, 9 events
-* * *average: 3 events*
-* The Detective:
-* * 7 users, 15 events
-* * *average: 2.14 events*
+> * The Landline:
+>    * 1 user, 2 events
+>    * *average: 2 events*
+>
+> * The Forgiving:
+>    * 4 users, 12 events
+>    * *average: 3 events*
+>
+> * The Sheriff:
+>    * 3 users, 9 events
+>    * *average: 3 events*
+> * The Detective:
+>    * 7 users, 15 events
+>    * *average: 2.14 events*
 
 --------------------------------------------------------------------------------------------
 
