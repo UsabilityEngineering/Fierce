@@ -10,8 +10,11 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ## Phase 1: User Inquiry and Inspection
 
-### Method Summary
-* Executive Summary of methods:
+### Executive Summary
+* Successfully gathered mock data based on unique personas through the use of Google Forms Online Survey.
+* Practiced proper communication across all group members to ensure work meets expecations and is completed correctly/on time.
+* Analyzed/broke down raw data and successfully converted into useful information used to draw proper conclusions
+* Worked as a team to build out and complete a clean report containing all necessary information based on our findings and conclusion.
 
 
 ### Data Gathered
@@ -28,7 +31,7 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ### Important Outcomes
 * and most important outcomes (Conclusions):
-
+* 
 
 [Full phase 1 report](phase1/)
 
