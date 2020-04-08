@@ -97,6 +97,7 @@ Users that received cancellation of their event, via methods other than phone, a
 > * Those who have attended two or more events and spend 3-5 minutes acquiring their ticket. These users are considered to be attracted to the event and their return rate will be heavily influenced by the selection offered.
 >
 > * For the purposes of defining this persona it is inferred that these users have experience in attending events and generally know what they want from an event. Given their routine ticket acquisition time and events attended, these users are considered to be more willing to engage with a more structured event environment.
+
 --------------------
 
 # Sub-Personas
