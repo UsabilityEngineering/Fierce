@@ -115,7 +115,7 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 >
 > * For the purposes of defining this persona it is inferred that these users have experience in attending events and generally know what they want from an event. Given their routine ticket acquisition time and events attended, these users are considered to be more willing to engage with a more structured event environment. 
 
---------------------------Sub-Personas------------------------------------------------------
+## Sub-Personas
 --------------------------------------------------------------------------------------------
 These tags may be applied to any persona, and define how users respond to variables.
 
