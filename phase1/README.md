@@ -30,12 +30,12 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 ### Event and User Distribution by Persona
 --------------------------------------------------------------------------------------------
 > * The Curious:
-> * * 6 users, 0 events
-> * * average: 0 events
+>    * 6 users, 0 events
+>    * average: 0 events
 >
 > * The Refined:
-> * * 1 user, 1 event 
-> * * *average: 1 events*
+>    * 1 user, 1 event 
+>    * *average: 1 events*
 > * The Free Spirit: 2 users, 6 events, average: 3 events
 > * The Veteran: 7 users, 17 events, average: 2.43 events
  
