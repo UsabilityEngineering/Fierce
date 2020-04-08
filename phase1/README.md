@@ -19,28 +19,46 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ### Ticket Acquisition Distribution 
 --------------------------------------------------------------------------------------------
- - 0-1min: 4 tickets
- - 1-2min: 2 tickets
- - 2-3min: 2 tickets
- - 3-5min: 15 tickets
- - 5+min: 1 tickets
-
-- Users that did not attend any events did not specify search time 5/11 times. Two responded with less than one minute and four responded about five minutes.
+> * **0-1 min:** 04 tickets
+> * **1-2 min:** 02 tickets
+> * **2-3 min:** 02 tickets
+> * **3-5 min:** 15 tickets
+> * **5+ mins:** 01 tickets
+>
+>Users that did not attend any events did not specify search time 5/11 times. Two responded with less than one minute and four responded about five minutes.
 
 ### Event and User Distribution by Persona
 --------------------------------------------------------------------------------------------
-* The Curious: 6 users, 0 events, average: 0 events
-* The Refined: 1 user, 1 event, average: 1 events
-* The Free Spirit: 2 users, 6 events, average: 3 events
-* The Veteran: 7 users, 17 events, average: 2.43 events
+> * The Curious:
+> * * 6 users, 0 events
+> * * average: 0 events
+>
+> * The Refined:
+> * * 1 user, 1 event 
+> * * *average: 1 events*
+> * The Free Spirit: 2 users, 6 events, average: 3 events
+> * The Veteran: 7 users, 17 events, average: 2.43 events
  
 ###  Event and User Distribution by Sub-Persona
  --------------------------------------------------------------------------------------------
-* The Ghosted: 5 users, 10 events, average: 2 events
-* The Landline: 1 user, 2 events, average: 2 events
-* The Forgiving: 4 users, 12 events, average: 3 events
-* The Sheriff: 3 users, 9 events, average: 3 events
-* The Detective: 7 users, 15 events, average: 2.14 events
+* The Ghosted:
+* * 5 users, 10 events
+* * *average: 2 events*
+
+* The Landline:
+* * 1 user, 2 events
+* * *average: 2 events*
+
+* The Forgiving:
+* * 4 users, 12 events
+* * *average: 3 events*
+
+* The Sheriff:
+* * 3 users, 9 events
+* * *average: 3 events*
+* The Detective:
+* * 7 users, 15 events
+* * *average: 2.14 events*
 
 --------------------------------------------------------------------------------------------
 
