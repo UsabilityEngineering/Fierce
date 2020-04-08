@@ -1,4 +1,5 @@
 # Team Fierce, Phase 1: User Inquiry and Inspection
+-(Top)-
 
 ## Methods
 
@@ -87,6 +88,7 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 > In our findings, we discovered many users who had not attended an event within the last 30 days yet still filled out the survey leading to possibly less accurate data. This means that many users based their answers on something they did over a month ago. Using one research instrument (online questionnaire/survey) lead to limitations in not finding enough users from the demographic of people who recently attended an event, regardless of the method in which they found the event (newspaper, word of mouth, internet etc.). Our original assumption was that by performing both an online survey and an in-person interview, collectively we could get the most accurate information.
 
 ## Personas
+[Return to Top](#top)
 
 ### The Curious
 --------------------
