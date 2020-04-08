@@ -46,7 +46,9 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ## Conclusions
 
-Discoveries derived from the method(s). For example, explain a requirement (e.g. “Task X needs to be accomplished with fewer steps. . . ”) based on a finding (e.g. “. . . because in our contextual inquiry, we found it was what the users did most often and complained about extraneous work needed to complete it”)
+Through our questionnaire we discovered the average user is spending approximately 5 minutes to purchase an event registration. Assuming this is how most people are registering for individual events, registering for multiple events in a row or as part of a series would take in excess of 15 minutes or more. Therefore it is important that registration should be taken into account, making the registration process across multiple event registrations as short and simple to the point as possible. We found that the registration process across users is taking far too long.
+	We also discovered that the majority of users found events of interest by searching for events on the internet, or through friends & family. Therefore it would be important to obtain further data or hone in on the user experience of existing software/registration processes by attending these events or contracting with the event hosts themselves.
+Through our findings we discovered that nearly 50% of all users that completed our survey had not attended an fitness event within the last 30 days. In order for data to be accurate, moving forward, notifications via email or direct message could be sent out to eligible participants to complete our online survey after popular local events have ended. This would ensure that the data is more accurate and less reliant on that of the participants memory. The Veterans were the majority Persona of event attendance
 
 ## Caveats
 
