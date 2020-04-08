@@ -101,7 +101,6 @@ Users that received cancellation of their event, via methods other than phone, a
 
 # Sub-Personas
 [Back to Personas](#personas)
---------------------------------------------------------------------------------------------
 ### The Ghosted
 --------------------
 > * Those who attended events, but were not notified of some cancellations. These users attend an average of 2 events, and are considered to have a negative position on the service.
@@ -143,7 +142,8 @@ Users that received cancellation of their event, via methods other than phone, a
 > Once they navigate to the cart, they’re brought to a planner where they can quickly organize the events they’ve selected. To do so, the user would either choose to arrange the events by dragging and dropping them from “the pool” (where events are not considered in the calculations), or using a sorting algorithm. The sorting algorithm would arrange dates by date, offering different arrangements if events conflict or offering to remove them. The user can then continue to drag/drop events from the planner or the pool, changing the calculations and viewing schedules. Once the user is satisfied with their organization, they can continue the registration process. If the user tries to navigate away from the page, they’ll be given a prompt to register an account if they want to save their progress, as once the session expires their planner will be lost.
 > * This scenario, in a way, satisfies most user groups as it provides a very convenient and user-friendly planner to organize all events of interest so that they can choose the schedule that best suites them. Careful attention would have to be applied to being error tolerant and learnable, so that users can quickly and effectively plan and register.
 
-#### Scenario 3: User wants to register their selection from the planner and set up their events
+#### Scenario 3:
+#### User wants to register their selection from the planner and set up their events
 > Once the user navigates to the registration page, any events that are contracted through the software can be registered at once through the checkout page with all coupons pre-applied. Any events not contracted will provide a link to a direct registration page to the event host’s checkout page. The user will (optionally) register an account, complete the registration process, pay all applicable fees, and then their planner will register all events. Once the events are registered, they’ll be taken to their profile page (if registered) or sent back to the planner with a prompt to create an account to save their planner.
 > * Due to the contract limitations, many users would find this not so efficient as they would potentially be following popup links to different event registration pages. However, taking out the middle work by organizing everything in one place would be appreciated by users who were either curious, investigative or regular athletes.
 
