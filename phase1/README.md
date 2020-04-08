@@ -19,9 +19,10 @@ Users that received cancellation of their event, via methods other than phone, a
 
 ### Ticket Acquisition Distribution 
 --------------------------------------------------------------------------------------------
-||<1 Minutes|2 Minutes|3 Minutes|3-5 Minutes|>5 Minutes|
+|-|<1 Minutes|2 Minutes|3 Minutes|3-5 Minutes|>5 Minutes|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Tickets Bought|4|2|2|15|1|
+
 >Users that did not attend any events did not specify search time 5/11 times. Two responded with less than one minute and four responded about five minutes.
 
 ### Event and User Distribution by Persona
