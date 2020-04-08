@@ -6,12 +6,13 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 * Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
 * Michael Harris - Wrote scenarios, worked on caveats and conclusion, and serious formatting overhauls
-* Cody DeLozier - Wrote caveats and conclusion.
+* Cody DeLozier - Wrote caveats, conclusion, executive summary of methods and import outcomes.
 
 ## Phase 1: User Inquiry and Inspection
 
 ### Method Summary
-* Executive Summary of methods,
+* Executive Summary of methods:
+
 
 ### Data Gathered
 * The majority of users use Family/Friends to locate events, with Internet Searches being the second most preferred.
@@ -26,7 +27,8 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 * All Personas and Sub-Personas averaged between one and three events, except The Curious that attended zero.
 
 ### Important Outcomes
-* and most important outcomes (Conclusions)
+* and most important outcomes (Conclusions):
+
 
 [Full phase 1 report](phase1/)
 
