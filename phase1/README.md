@@ -120,9 +120,6 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 # Sub-Personas
 [Back to Personas](#-personas)
 --------------------------------------------------------------------------------------------
-These tags may be applied to any persona, and define how users respond to variables.
-
---------------------------------------------------------------------------------------------
 ### The Ghosted
 --------------------
 > * Those who attended events, but were not notified of some cancellations. These users attend an average of 2 events, and are considered to have a negative position on the service.
