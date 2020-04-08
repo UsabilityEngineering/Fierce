@@ -29,18 +29,18 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ### Event and User Distribution by Persona
 --------------------------------------------------------------------------------------------
- - The Curious: 6 users, 0 events, average: 0 events
- - The Refined: 1 user, 1 event, average: 1 events
- - The Free Spirit: 2 users, 6 events, average: 3 events
- - The Veteran: 7 users, 17 events, average: 2.43 events
+* The Curious: 6 users, 0 events, average: 0 events
+* The Refined: 1 user, 1 event, average: 1 events
+* The Free Spirit: 2 users, 6 events, average: 3 events
+* The Veteran: 7 users, 17 events, average: 2.43 events
  
- ###  Event and User Distribution by Sub-Persona
+###  Event and User Distribution by Sub-Persona
  --------------------------------------------------------------------------------------------
-  - The Ghosted: 5 users, 10 events, average: 2 events
-  - The Landline: 1 user, 2 events, average: 2 events
-  - The Forgiving: 4 users, 12 events, average: 3 events
-  - The Sheriff: 3 users, 9 events, average: 3 events
-  - The Detective: 7 users, 15 events, average: 2.14 events
+* The Ghosted: 5 users, 10 events, average: 2 events
+* The Landline: 1 user, 2 events, average: 2 events
+* The Forgiving: 4 users, 12 events, average: 3 events
+* The Sheriff: 3 users, 9 events, average: 3 events
+* The Detective: 7 users, 15 events, average: 2.14 events
 
 --------------------------------------------------------------------------------------------
 
@@ -57,15 +57,19 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ## Caveats
 
-Due to the recent COVID-19 pandemic, stay at home orders were issued prohibiting our team from gathering data in person with useful methods such as individual interviews, naturalistic observation etc. Initially our goal was to create an online survey/questionnaire along with an individual in-person interview. Unfortunately, due to the current circumstances, the only plausible data collection method was to roll out an online survey/questionnaire. In our findings we discovered interesting data that was collected at entirely different times and locations for each user (home, school, work etc.) depending on availability. It is very unlikely that our users filled out this survey directly after purchasing an event ticket/pass or after attending an event. This means that the data received from our online survey/questionnaire may be less accurate than data retrieved from an in-person interview that was performed directly after the user purchased tickets or attended an event. In our findings, we discovered many users who had not attended an event within the last 30 days yet still filled out the survey leading to possibly less accurate data. This means that many users based their answers on something they did over a month ago. Using one research instrument (online questionnaire/survey) lead to limitations in not finding enough users from the demographic of people who recently attended an event, regardless of the method in which they found the event (newspaper, word of mouth, internet etc.). Our original assumption was that by performing both an online survey and an in-person interview, collectively we could get the most accurate information.
+#### Coronavirus
+> Due to the recent COVID-19 pandemic, stay at home orders were issued prohibiting our team from gathering data in person with useful methods such as individual interviews, naturalistic observation etc. Initially our goal was to create an online survey/questionnaire along with an individual in-person interview. Unfortunately, due to the current circumstances, the only plausible data collection method was to roll out an online survey/questionnaire. In our findings we discovered interesting data that was collected at entirely different times and locations for each user (home, school, work etc.) depending on availability. It is very unlikely that our users filled out this survey directly after purchasing an event ticket/pass or after attending an event. This means that the data received from our online survey/questionnaire may be less accurate than data retrieved from an in-person interview that was performed directly after the user purchased tickets or attended an event.
+
+#### Impacted Findings
+> In our findings, we discovered many users who had not attended an event within the last 30 days yet still filled out the survey leading to possibly less accurate data. This means that many users based their answers on something they did over a month ago. Using one research instrument (online questionnaire/survey) lead to limitations in not finding enough users from the demographic of people who recently attended an event, regardless of the method in which they found the event (newspaper, word of mouth, internet etc.). Our original assumption was that by performing both an online survey and an in-person interview, collectively we could get the most accurate information.
 
 ## Personas
 
 ### The Curious
 --------------------
-- Those who have not attended any events, but still responded. These users are considered to be potential leads and their return rate will be heavily influenced by their first experience.
+> * Those who have not attended any events, but still responded. These users are considered to be potential leads and their return rate will be heavily influenced by their first experience.
 
-- For the purposes of defining this persona, null answers for event attendace are interpreted as no. It is inferred that these users have an interest in events from the fact that they responded even with no event history.
+> * For the purposes of defining this persona, null answers for event attendace are interpreted as no. It is inferred that these users have an interest in events from the fact that they responded even with no event history.
 
 ------------------------------------------------------------------------------------------------
 ### The Refined
