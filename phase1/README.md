@@ -15,7 +15,7 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ### Questionairre
 -------------------
-- Users that received cancellation of their event, via methods other than phone, attended 50% more events than those who received no notification or were notified via phone.
+Users that received cancellation of their event, via methods other than phone, attended 50% more events than those who received no notification or were notified via phone.
 
 ### Ticket Acquisition Distribution 
 --------------------------------------------------------------------------------------------
