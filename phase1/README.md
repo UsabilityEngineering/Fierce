@@ -19,12 +19,9 @@ A pivot table was created to analyze the response data with Timestamp for rows a
 
 ### Ticket Acquisition Distribution 
 --------------------------------------------------------------------------------------------
-> * **0-1 min:** 04 tickets
-> * **1-2 min:** 02 tickets
-> * **2-3 min:** 02 tickets
-> * **3-5 min:** 15 tickets
-> * **5+ mins:** 01 tickets
->
+||<1 Minutes|2 Minutes|3 Minutes|3-5 Minutes|>5 Minutes|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Tickets Bought|4|2|2|15|1|
 >Users that did not attend any events did not specify search time 5/11 times. Two responded with less than one minute and four responded about five minutes.
 
 ### Event and User Distribution by Persona
@@ -39,25 +36,13 @@ A pivot table was created to analyze the response data with Timestamp for rows a
  
 ###  Event and User Distribution by Sub-Persona
  --------------------------------------------------------------------------------------------
-> * The Ghosted:
->    * 5 users, 10 events
->    * *average: 2 events*
-
-> * The Landline:
->    * 1 user, 2 events
->    * *average: 2 events*
->
-> * The Forgiving:
->    * 4 users, 12 events
->    * *average: 3 events*
->
-> * The Sheriff:
->    * 3 users, 9 events
->    * *average: 3 events*
-> * The Detective:
->    * 7 users, 15 events
->    * *average: 2.14 events*
-
+||*Total Users*|*Recent Events*|*Average Events*|
+|:---:|:---:|:---:|:---:|
+|**Ghosted**|5|10|2|
+|**Landline**|1|2|2|
+|**Forgiving**|4|12|3|
+|**Sheriff**|3|9|3|
+|**Detective**|7|15|2.14|
 --------------------------------------------------------------------------------------------
 
 # Conclusions
