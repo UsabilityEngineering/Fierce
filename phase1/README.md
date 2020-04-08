@@ -58,7 +58,7 @@ Users that received cancellation of their event, via methods other than phone, a
 > We also discovered that the majority of users found events of interest by searching for events on the internet, or through friends & family. Therefore it would be important to obtain further data or hone in on the user experience of existing software/registration processes by attending these events or contracting with the event hosts themselves.
 
 #### Recent Attendance
-> Through our findings we discovered that nearly 50% of all users that completed our survey had not attended an fitness event within the last 30 days. In order for data to be accurate, moving forward, notifications via email or direct message could be sent out to eligible participants to complete our online survey after popular local events have ended. This would ensure that the data is more accurate and less reliant on that of the participants memory.
+> Through our findings we discovered that nearly 1/3 of all users that completed our survey had not attended a fitness event within the last 30 days. In order for data to be accurate, moving forward, notifications via email or direct message could be sent out to eligible participants to complete our online survey after popular local events have ended. This would ensure that the data is more accurate and less reliant on that of the participants memory.
 
 ## Caveats
 
