@@ -13,9 +13,8 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 ### Executive Summary
 * Successfully gathered mock data based on unique personas through the use of Google Forms Online Survey.
 * Practiced proper communication across all group members to ensure work meets expecations and is completed correctly/on time.
-* Analyzed/broke down raw data and successfully converted into useful information used to draw proper conclusions
+* Analyzed raw data and successfully converted into useful information with the use of a pivot table to draw proper conclusions.
 * Worked as a team to build out and complete a clean report containing all necessary information based on our findings and conclusion.
-
 
 ### Data Gathered
 * The majority of users use Family/Friends to locate events, with Internet Searches being the second most preferred.
@@ -31,7 +30,10 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ### Important Outcomes
 * and most important outcomes (Conclusions):
-* 
+# The average user spends 5 or more minutes to purchase a single event registration
+* a focus in developing a quick and simple is essential to creating a enjoyable user experience.
+# The average user spends 5 or more minutes to purchase a single event registration
+* test
 
 [Full phase 1 report](phase1/)
 
