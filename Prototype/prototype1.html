@@ -11,71 +11,55 @@
   </head>
   <body style = "background: grey;">
   
-  
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <button class="navbar-toggler"
-    type="button" data-toggle="collapse"
-    data-target="#navbarSupportedContent"
-    aria-controls="navbarSupportedContent"
-    aria-expanded="false" aria-label="Toggle navigation">
-  </button>
-
-  <div class="collapse navbar-collapse" id="navMenu">
+    <button class="navbar-toggler"
+      type="button" data-toggle="collapse"
+      data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false" aria-label="Toggle navigation">
+    </button>
   
-    <!-- left side of the nav bar -->
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item" id="navitem1">
-        <a class="nav-link" <a href="prototype1.html"><b>Team Fierce</b><span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" < a href="prototype2.html">Events</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link active" href="prototype3.html">Calendar</a>
-      </li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navMenu">
     
-    <!-- right side of the nav bar -->
-    <div class="col-md-15 text-center">
-      <button type="button" class="btn btn-success" onClick="window.location.reload();">Cart</button>
+      <!-- left side of the nav bar -->
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item" id="navitem1">
+          <a class="nav-link" <a href="prototype1.html"><b>Team Fierce</b><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" < a href="prototype2.html">Events</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="prototype3.html">Calendar</a>
+        </li>
+      </ul>
+      
+      <!-- right side of the nav bar -->
+      <div class="col-md-15 text-center">
+        <button type="button" class="btn btn-success" onClick="window.location.reload();">Cart</button>
+      </div>
     </div>
-  </div>
   </nav>
   
   <!-- The actual homepage -->
-  <div class="container-fluid">
-      <div class="row">
+  <div id="mainbody">
       
         <!-- This column is the left half of the screen, used for
         scrolling through the available events found on the homepage -->
-        <div class="col-md-6">
+        <div id="main-left">
         
           <h3>Find Your Events!</h3>
           <p>Scroll through the events, and check the ones you want to attend.
           After you're done, you'll set up your planner based on your selections.</p>
           
           <div id="scroller-menu">
-            
-            <div class="scrollbox">
-              <h2>Copy Pasta Event</h2>
-              <h5>Climb the hills of pain and claim the medal at the end!</h5>
-              <div class="scrollbox-img">
-                <img src="event01.png" width="32px" height="32px"/>
-              </div>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Sed id ligula ut mi elementum vehicula et sed dui.
-                Sed luctus ipsum eget neque lacinia, ac molestie urna cursus.
-                Sed eleifend quis purus.
-              </p>
-            </div>
-            
+            <!--javascript insert here-->
           </div>
           
         </div>
         
         <!-- this column is the right half of the screen -->
-        <div class="col-md-6">
+        <div id="main-right">
           <h3>Event Information:</h3>
           <div class="card" style="width: 50rem;">
           <div class="card-body">
@@ -92,5 +76,25 @@
       </div>
     </div>
   </body>
-
+  
+  <script>
+  window.onload = function() {
+    // Dynamically add divs
+    let div = $("#scroller-menu");
+    div.empty();
+    for (i = 0; i < 99; i++) {
+      div.append(
+        '<div class="scrollbox">'+
+        '<h2>Copy Pasta Event #'+i+'</h2>'+
+        '<button class="scrollbtn">MORE INFO</button>'+
+        '<table> <tr> <td> <input class="cbox" type="checkbox"/> </td>'+
+        '<td> <h5>Climb the hills of pain and claim the medal at the end!</h5>' +
+        '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. '+
+        'Sed id ligula ut mi elementum vehicula et sed dui. '+
+        'Sed luctus ipsum eget neque lacinia, ac molestie urna cursus. '+
+        'Sed eleifend quis purus. </p> </td> </tr> </table> </div>'
+      );
+    }
+  };
+  </script>
 </html>

@@ -1,13 +1,65 @@
 body, html {margin:0; padding:0;}
 
+#mainbody {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#main-left {
+  position: relative;
+  width: calc(65% - 8px);
+  height: 100%;
+  float: left;
+  border: 1px solid green;
+}
+
+#main-right {
+  position: relative;
+  width: calc(35% - 8px);
+  float: right;
+  border: 1px solid red;
+}
+
+
 #scroller-menu {
+  position: relative;
   overflow-y: scroll;
+  height: 100%;
 }
 
 .scrollbox {
-  
+  position: relative;
+  width: 90%;
+  min-height: 128px;
+  border: 1px solid red;
+  border-radius: 8px;
+  background: url('background.png');
+  background-position: center center;
+}
+
+.scrollbtn {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+}
+
+.cbox {
+  width: 24px;
+  height: 24px;
+}
+
+.scrollbox h2 {
+  text-indent: 16px;
+}
+
+.scrollbox h5 {
+  text-indent: 42px;
+  white-space: nowrap;
 }
 
 .scrollbox-img {
-  
+  position: absolute;
+  top: 8px;
+  right: 8px;
 }
