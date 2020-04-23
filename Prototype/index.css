@@ -32,9 +32,9 @@ body, html {margin:0; padding:0;}
   position: relative;
   width: 90%;
   min-height: 128px;
-  border: 1px solid red;
+  margin: 8px auto;
   border-radius: 8px;
-  background: url('background.png');
+  background: rgb(200,200,200);
   background-position: center center;
 }
 
