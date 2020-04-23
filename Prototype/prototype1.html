@@ -4,18 +4,27 @@
   <head>
     <title>Team Fierce</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </head>
   <body style = "background: grey;">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  
+  
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler"
+    type="button" data-toggle="collapse"
+    data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false" aria-label="Toggle navigation">
   </button>
 
   <div class="collapse navbar-collapse" id="navMenu">
+  
+    <!-- left side of the nav bar -->
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item" id="navitem1"> <!-- used to be active-->
+      <li class="nav-item" id="navitem1">
         <a class="nav-link" <a href="prototype1.html"><b>Team Fierce</b><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
@@ -25,17 +34,47 @@
         <a class="nav-link active" href="prototype3.html">Calendar</a>
       </li>
     </ul>
+    
+    <!-- right side of the nav bar -->
     <div class="col-md-15 text-center">
       <button type="button" class="btn btn-success" onClick="window.location.reload();">Cart</button>
-  </div>
+    </div>
   </div>
   </nav>
+  
+  <!-- The actual homepage -->
   <div class="container-fluid">
       <div class="row">
+      
+        <!-- This column is the left half of the screen, used for
+        scrolling through the available events found on the homepage -->
         <div class="col-md-6">
-          <h3>SCROLL MENU</h3>
-          <p>I'm a paragraph!</p>
+        
+          <h3>Find Your Events!</h3>
+          <p>Scroll through the events, and check the ones you want to attend.
+          After you're done, you'll set up your planner based on your selections.</p>
+          
+          <div id="scroller-menu">
+            
+            <div class="scrollbox">
+              <h2>Copy Pasta Event</h2>
+              <h5>Climb the hills of pain and claim the medal at the end!</h5>
+              <div class="scrollbox-img">
+                <img src="event01.png" width="32px" height="32px"/>
+              </div>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Sed id ligula ut mi elementum vehicula et sed dui.
+                Sed luctus ipsum eget neque lacinia, ac molestie urna cursus.
+                Sed eleifend quis purus.
+              </p>
+            </div>
+            
+          </div>
+          
         </div>
+        
+        <!-- this column is the right half of the screen -->
         <div class="col-md-6">
           <h3>Event Information:</h3>
           <div class="card" style="width: 50rem;">
@@ -49,6 +88,7 @@
           </div>
           </div>
         </div>
+        
       </div>
     </div>
   </body>
