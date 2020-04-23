@@ -2,6 +2,7 @@ body, html {margin:0; padding:0;}
 
 #mainbody {
   position: relative;
+  padding-top: 65px;
   width: 100%;
   height: 50%;
 }
@@ -11,7 +12,6 @@ body, html {margin:0; padding:0;}
   width: calc(65% - 8px);
   height: 100%;
   float: left;
-  border: 1px solid green;
   overflow-y:
 }
 
@@ -20,13 +20,11 @@ body, html {margin:0; padding:0;}
   width: calc(35% - 8px);
   height: 100%;
   float: right;
-  border: 1px solid red;
 }
 
 
 #scroller-menu {
   position: relative;
-  overflow-y: scroll;
   height: 100%;
 }
 
