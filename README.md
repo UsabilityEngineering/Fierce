@@ -12,7 +12,11 @@ Today users face numerous difficulties in attending events, from the ticket acqu
     * Defined personas and sub-personas
     * Contributed method details.
   * Phase 2 Contributions:
-    * Coming Soon
+    * Developed Wireframe draft using Figma
+    * Found data transfer method to move Wireframe to Adobe XD
+    * Collaborated with group to get input for the wireframe
+    * Wrote Protocols
+    * Spiced Things Up
 * Michael Harris
   * Phase 1 Contributions:
     * Scenario writeups
