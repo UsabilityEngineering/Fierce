@@ -32,7 +32,9 @@ Today users face numerous difficulties in attending events, from the ticket acqu
     * Wrote Caveats & Conclusion
     * Executive summary of methods and important outcomes
   * Phase 2 Contributions:
-    * Wireframe Prototype with Adobe XD
+    * Attempted export of Figma Wireframe to Adobe XD due to issues within using Figma.
+    * Re-created wireframe main page after discovering compatability issues with Figma import.
+    * Created functional wireframe prototype within Adobe XD. 
 
 ## Phase 1: User Inquiry and Inspection
 
