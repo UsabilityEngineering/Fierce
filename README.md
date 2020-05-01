@@ -25,12 +25,14 @@ Today users face numerous difficulties in attending events, from the ticket acqu
   * Phase 2 Contributions:
     * Github Phase Writeup
     * Published the Wireframe on Adobe XD
+    * Worked on Task #2 for Protocol
+    * HTML/CSS of the HTML Prototype
 * Cody DeLozier
   * Phase 1 Contributions:
     * Wrote Caveats & Conclusion
     * Executive summary of methods and important outcomes
   * Phase 2 Contributions:
-    * Coming Soon
+    * Wireframe Prototype with Adobe XD
 
 ## Phase 1: User Inquiry and Inspection
 
