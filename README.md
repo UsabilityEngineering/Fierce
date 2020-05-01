@@ -4,7 +4,15 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 
 ## Team Members
 
-* Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
+* Kira Casto
+  * Phase 1 Contributions:
+    * Wrote introduction
+    * Developed pivot table for data analysis
+    * Collected and analyzed findings
+    * Defined personas and sub-personas
+    * Contributed method details.
+  * Phase 2 Contributions:
+    * Coming Soon
 * Michael Harris
   * Phase 1 Contributions:
     * Scenario writeups
@@ -13,7 +21,12 @@ Today users face numerous difficulties in attending events, from the ticket acqu
   * Phase 2 Contributions:
     * Github Phase Writeup
     * Published the Wireframe on Adobe XD
-* Cody DeLozier - Wrote caveats, conclusion, executive summary of methods and important outcomes.
+* Cody DeLozier
+  * Phase 1 Contributions:
+    * Wrote Caveats & Conclusion
+    * Executive summary of methods and important outcomes
+  * Phase 2 Contributions:
+    * Coming Soon
 
 ## Phase 1: User Inquiry and Inspection
 
