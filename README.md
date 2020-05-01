@@ -5,8 +5,14 @@ Today users face numerous difficulties in attending events, from the ticket acqu
 ## Team Members
 
 * Kira Casto - Wrote introduction, developed pivot table for data analysis, collected and analyzed findings, defined personas and sub-personas, and contributed method details.
-* Michael Harris -
-  * Phase 2 Github Writeup, published the Wireframe XD, wrote scenarios, worked on caveats and conclusion, and serious formatting overhauls
+* Michael Harris
+  * Phase 1 Contributions:
+    * Scenario writeups
+    * Assisted with Caveats & Conclusion
+    * Most of the Markdown Formatting
+  * Phase 2 Contributions:
+    * Github Phase Writeup
+    * Published the Wireframe on Adobe XD
 * Cody DeLozier - Wrote caveats, conclusion, executive summary of methods and important outcomes.
 
 ## Phase 1: User Inquiry and Inspection
