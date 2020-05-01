@@ -3,7 +3,7 @@
 We're fixing this because we screwed up the phases.
 
 # Registration Confirmation
-[!Image](6.png)
+[!Image](./6.png)
 This is the page you arrive to after registration. We want the registration process to be quick, easy and painless. One of the important aspects of registration is confirmation, as we want users to know they successfully registered. As our project is intended to make obtaining admission for key/multiple events easy, we need the software to be error tolerant.
 
 [!Image](5.png)
