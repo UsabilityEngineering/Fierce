@@ -1,3 +1,3 @@
-# Team Fierce, Phase 2: Wireframe & Prototype
+# Phase II: User-Centered Design
 
 We're fixing this because we screwed up the phases.
