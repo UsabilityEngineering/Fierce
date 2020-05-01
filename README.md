@@ -42,7 +42,7 @@ Nearly 1/3 of all users that completed the survey had not attended a fitness eve
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+[Full phase 2 report](phas2/)
 
 ## Phase 3: Usability Evaluation
 
