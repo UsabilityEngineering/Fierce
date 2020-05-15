@@ -5,10 +5,10 @@ Description of Phase 3
 # Links / Deliverables
 
 ### Moderator Protocol
-[Unavailable (Goes to Google)](https://www.google.com)
+(This File)
 
 ### Wireframe Prototype  
-[Event Finder on Adobe XD Web](https://xd.adobe.com/view/d014c3c4-af44-4c35-542a-fafbcb19ae98-a625)
+[Event Finder on Adobe XD Web](https://xd.adobe.com/view/a76d0be0-c3c0-42d2-556c-ce572dce63fe-d15c/)
 
 # Task Explanations
 
