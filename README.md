@@ -89,4 +89,7 @@ Nearly 1/3 of all users that completed the survey had not attended a fitness eve
 ### Executive Summary
 * Developed Protocols based on previously developed personas and scenarios
 * Updated Prototype for interactive use
+* Tested Prototype and Protocols covering implemented functions, with live user (Kevin)
+* Reviewed Prototype and implemented changes, suggested by user (Kevin)
+
 [Full phase 3 report](phase3/)
