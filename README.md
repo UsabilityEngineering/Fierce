@@ -17,6 +17,10 @@ Today users face numerous difficulties in attending events, from the ticket acqu
     * Collaborated with group to get input for the wireframe
     * Wrote Protocols
     * Spiced Things Up
+  * Phase 3 Contributions
+    * Collaborated with Mike on Protocols
+    * Updated GitHub
+    * Reviewed prototype and provided feedback/input
 * Michael Harris
   * Phase 1 Contributions:
     * Scenario writeups
@@ -27,6 +31,10 @@ Today users face numerous difficulties in attending events, from the ticket acqu
     * Published the Wireframe on Adobe XD
     * Worked on Task #2 for Protocol
     * HTML/CSS of the HTML Prototype
+  * Phase 3 Contributions:
+    * Collaborated with Kira on Protocols
+    * Updated GitHub
+    * Reviewed prototype and provided input/design
 * Cody DeLozier
   * Phase 1 Contributions:
     * Wrote Caveats & Conclusion
@@ -34,7 +42,11 @@ Today users face numerous difficulties in attending events, from the ticket acqu
   * Phase 2 Contributions:
     * Attempted export of Figma Wireframe to Adobe XD due to issues within using Figma.
     * Re-created wireframe main page after discovering compatability issues with Figma import.
-    * Created functional wireframe prototype within Adobe XD. 
+    * Created functional wireframe prototype within Adobe XD.
+  * Phase 3 Contributions:
+    * Developed Prototype
+    * Coordinated with team members to gather input and feedback for prototype
+    * Scheduled final presentation and emailed on behalf of the group.
 
 ## Phase 1: User Inquiry and Inspection
 
@@ -74,5 +86,7 @@ Nearly 1/3 of all users that completed the survey had not attended a fitness eve
 [Phase 2 Prototype](Prototype/)
 
 ## Phase 3: Usability Evaluation
-
-*Coming Soon*
+### Executive Summary
+* Developed Protocols based on previously developed personas and scenarios
+* Updated Prototype for interactive use
+[Full phase 3 report](phase3/)
