@@ -8,6 +8,8 @@ Phase 3's focus was to take everything we've learned and put it into our prototy
 (This File)
 
 ### Wireframe Prototype  
+[Protocol PDF](/phase3/Phase3.pdf)
+
 [Event Finder on Adobe XD Web](https://xd.adobe.com/view/a76d0be0-c3c0-42d2-556c-ce572dce63fe-d15c/)
 
 # Task Explanations
