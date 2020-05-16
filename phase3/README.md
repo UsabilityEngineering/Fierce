@@ -1,6 +1,6 @@
 # Team Fierce, Phase 3: Usability Evaluation
 
-Description of Phase 3
+Phase 3's focus was to take everything we've learned and put it into our prototype, and then build a moderator protocol to have a user go through a moderated process of performing tasks. The goal is that this moderated session would demonstrate how someone within a defined profile based on the data collected in Phase 1 would use our intended product, but as a prototype. We hope that while the moderated session is successful, that we can gain valuable data in how the product is actually used. If our goal is to create a streamlined and convenient middle platform for event registration, we need to make sure that the users we are targeting (at a minimum) can navigate the software as intended.
 
 # Links / Deliverables
 
